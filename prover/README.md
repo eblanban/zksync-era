@@ -22,7 +22,7 @@ Creating prover jobs and saving necessary artifacts.
 
 ### prover_fri
 
-This directory contains the main 'prover'. It can be run in two modes: either as CPU or as GPU. (controlled via 'gpu'
+This directory contains the main 'prover'. It can be run in two modes: either as CPU or as GPU (controlled via 'gpu'
 feature flag).
 
 ### witness_vector_generator
